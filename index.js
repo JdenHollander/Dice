@@ -1,4 +1,4 @@
-alert("Reload this page");
+//alert("this page works");
 
 var randomNumber1 = Math.floor(Math.random()*6)+1;
 var image1 = "images/dice"+ randomNumber1 + ".png";
