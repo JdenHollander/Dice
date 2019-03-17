@@ -1,0 +1,10 @@
+INDEX.HTML
+1. create a new file called index.js and link to it
+1a. test the link (with an allert)
+2. add the dice6.png images
+-----
+INDEX.JS
+3. create a variable called randomNumber1 and set the value between 1-6
+4. add connect image to randomNumber1
+5. DO the same for dice2
+6. change the title to display a winner
